@@ -1,7 +1,7 @@
 # dc-framework
 Directional Changes Framework
 
-Implement a directional change framework with empirical evidence based on the algorithm according to the "Agent-Based Model in Directional-Change Intrinsic Time" (Vladimir Petrov et al. 2018). I introduce another function to obtain a more accurate point of directional change and the end of overshoot.
+Implement a directional change framework with empirical evidence based on the algorithm according to the literature[1]. I introduce another function to obtain a more accurate point of directional change and the end of overshoot.
 
 ## Results
 
@@ -15,4 +15,4 @@ Figure 2: backtesting a strategy by dc framework within/out transaction fee.
 
 ## Reference
 
-Petrov, V., Golub, A., & Olsen, R. B. (2018). Agent-Based Model in Directional-Change Intrinsic Time. Available at SSRN 3240456.
+[1] Petrov, V., Golub, A., & Olsen, R. B. (2018). Agent-Based Model in Directional-Change Intrinsic Time. Available at SSRN 3240456.
