@@ -1,6 +1,8 @@
 # dc-framework
 Directional Changes Framework
 
+Implement a directional change framework with empirical evidence based on the algorithm according to the "Agent-Based Model in Directional-Change Intrinsic Time" (Vladimir Petrov et al. 2018). I introduce another function to obtain a more accurate point of directional change and the end of overshoot.
+
 ## Results
 
 GBPCHF (20220301-20220331)
